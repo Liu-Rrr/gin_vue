@@ -1,0 +1,6 @@
+port: 9090
+ip: 127.0.0.1
+user: root
+pwd: 957
+db_name: gotest
+db_port: 3306
